@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Feed</string>
+    <string name="BASE_URL">http://www.mocky.io/v2/</string>
+    <string name="task">Feeds</string>
+    <string name="temp_time">26 April 2021</string>
+    <string name="temp_eventName">This event app is assginement for second round of unlu organization</string>
+    <string name="feeds">Feeds</string>
+    <string name="likes">Likes</string>
+    <string name="views">Views</string>
+    <string name="share">Share</string>
+    <string name="none">None</string>
+    <string name="sort_by_like">Sort by Like</string>
+    <string name="sort_by_share">Sort by share</string>
+    <string name="short_by_views">Sort by views</string>
+    <string name="short_by_date">Sort by date</string>
+    <string name="error">Unkown Error</string>
+    <string name="retry">retry</string>
+    <string name="network_error">Network error. Please try after some time</string>
+</resources>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/none"
+        android:checkable="true"
+        android:title="@string/none" />
+    <item
+        android:id="@+id/sort_by_like"
+        android:checkable="true"
+        android:title="@string/sort_by_like" />
+    <item
+        android:id="@+id/sort_by_share"
+        android:checkable="true"
+        android:title="@string/sort_by_share" />
+    <item
+        android:id="@+id/short_by_views"
+        android:checkable="true"
+        android:title="@string/short_by_views" />
+    <item
+        android:id="@+id/short_by_date"
+        android:checkable="true"
+        android:title="@string/short_by_date" />
+
+</menu>
